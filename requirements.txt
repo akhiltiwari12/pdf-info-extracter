@@ -1,0 +1,6 @@
+streamlit==1.25.0
+pdf_extractor==0.0.3  # If this is a custom or external package, specify the correct version.
+qa_system==0.0.1      # If this is a custom or external package, specify the correct version.
+openai==0.27.8
+pdfplumber==0.9.0
+sentence-transformers==2.2.2
